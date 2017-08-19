@@ -28,4 +28,6 @@ k-means算法与EM算法的关系是这样的：k-means是两个步骤交替进�
 so；
 最后的结果为：
 ![image](https://github.com/chenglu66/kmeans1/blob/master/figure_1-1.png)
+so 无论那种算法对问题的定义都要特别有用，然后是量化成数学目标，然后设计算法，最后在验证算法的收敛性。
+
 
