@@ -27,5 +27,5 @@ k-means算法与EM算法的关系是这样的：k-means是两个步骤交替进�
 目标函数是什么就是Kmeans的损失函数，ok那么就用kmeans算法来解吧
 so；
 最后的结果为：
-![image](
+![image](https://github.com/chenglu66/kmeans1/blob/master/figure_1-1.png)
 
